@@ -1,4 +1,4 @@
-# Analysis of stack Overflow surveys about developers information, comparing 2015 and 2020
+# Analysis of stack Overflow surveys about developers, comparing 2015 and 2020
 
 ## Table of contents
 1. [Installation](#Installation)
