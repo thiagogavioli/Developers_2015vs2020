@@ -27,7 +27,7 @@ This is the [link](https://insights.stackoverflow.com/survey) to download the cs
 
 ## Results
 
-The results of this analysis can be found in this [blog post].(https://google.com)
+The results of this analysis can be found in this [blog post.](https://google.com)
 
 ## Licensing, Authors, Acknowledgements
 
